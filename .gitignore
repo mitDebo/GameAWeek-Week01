@@ -1,0 +1,15 @@
+/Temp
+/obj
+/library
+*.csproj
+*.unityproj
+*.sln
+Assets/NGUI/
+Assets/Demo/
+Assets/Editor/GoDummyPathEditor.cs
+Assets/Editor/GoDummyPathEditor.cs.meta
+Assets/Plugins/GoKit.dll
+Assets/Plugins/GoKit.dll.meta
+Assets/StreamingAssets/
+Assets/StreamingAssets.meta
+*.suo
