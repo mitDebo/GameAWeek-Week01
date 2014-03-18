@@ -6,6 +6,14 @@ To see my initial thoughts on it, see: http://polymath-games.com/2014/03/the-gam
 
 To play this game, you can find it here: http://www.kongregate.com/games/mitDebo/game-a-week-week-1
 
+This game requires both GoKit and NGUI to work correctly.
+
+GoKit is here: https://github.com/prime31/GoKit
+NGUI is here: https://www.assetstore.unity3d.com/#/content/2413
+
+NGUI does cost money, and I apologize for that. But it is a useful asset, and you can get the game working
+without it easily. It should not impede any learning you'd like to do.
+
 I provide the source as a learning tool to you. I make no promises to it working well or being very
 elegant written code. Making a game in a week's time is tough. But I do hope seeing this source here
 helps you in some way.
